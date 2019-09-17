@@ -1,2 +1,2 @@
-# jsextensions
-Extends Javascript's basic types with some useful functions
+# jshelpers
+Things that should have been part of Javascript
